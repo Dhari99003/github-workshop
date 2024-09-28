@@ -1,0 +1,5 @@
+name: c3
+event: workshop
+m1: neha joe
+m2: dharithry jyodish
+m3: treesa jewel
